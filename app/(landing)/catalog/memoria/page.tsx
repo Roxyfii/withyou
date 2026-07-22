@@ -77,7 +77,7 @@ export default function ProductCatalogPage() {
                             "Kustomisasi Galeri & Musik Audio",
                             "Dikerjakan Langsung oleh Kami"
                         ]}
-                        price="Rp 40.000"
+                        price="Rp 60.000"
                         demoLink="https://anniv.for-you-always.my.id/"
                         mediaSrc=""
                         fallbackImgSrc="/assets/opening_gate.png"

@@ -38,7 +38,7 @@ export default function ProductCatalogPage() {
                             ]}
                             price={
                                 <>
-                                    <span style={{ marginLeft: 8 }}>Promo Rp 20.000</span>
+                                    <span style={{ marginLeft: 8 }}>Promo Rp 25.000</span>
                                 </>
                             }
 
@@ -48,7 +48,7 @@ export default function ProductCatalogPage() {
                             mediaType="image"
                             accentColor="#c9184a"
                             accentGlow="rgba(201,24,74,0.15)"
-                            onAddToCart={() => addToCart({ id: "wrapped", title: "Wrapped Edition", numericPrice: 20000, themeColor: "#c9184a" })}
+                            onAddToCart={() => addToCart({ id: "wrapped", title: "Wrapped Edition", numericPrice: 25000, themeColor: "#c9184a" })}
                             themesLabel="Koleksi Halaman"
                             themes={[
                                 { name: "Login", desc: "Halaman masuk", fallbackImgSrc: "https://cdn.for-you-always.my.id/1778015209230-zboaxw.webp" },

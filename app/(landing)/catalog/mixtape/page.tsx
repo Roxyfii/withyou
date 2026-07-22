@@ -38,7 +38,7 @@ export default function MixtapeCatalogPage() {
                                 "Bebas custom pesan personal",
                                 "Rekam Suara & Custom Pesan"
                             ]}
-                            price="Rp 15.000"
+                            price="Rp 20.000"
                             demoLink="https://mixtape.for-you-always.my.id/auto-w2ykcoi"
                             mediaSrc=""
                             fallbackImgSrc="https://cdn.for-you-always.my.id/1781034685666-udzbps.png"

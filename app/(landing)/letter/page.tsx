@@ -947,7 +947,7 @@ export default function LetterLandingPage() {
                                     ))}
                                 </div>
                                 <a
-                                    href="https://wa.me/6281936109076?text=Halo%20Digital%20Atelier!%20Saya%20tertarik%20untuk%20memesan%20*Letter%20Edition*%20seharga%20Rp%2010.000.%0A%0AMohon%20info%20langkah%20selanjutnyaya.%20Terima%20kasih!"
+                                    href=""
                                     target="_blank" rel="noopener noreferrer"
                                     style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 8, width: "100%", padding: "16px 0", borderRadius: "var(--radius-md)", background: "linear-gradient(135deg, var(--accent) 0%, var(--accent-light) 100%)", color: "#020617", fontSize: 13, fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase", textDecoration: "none", transition: "all 0.3s ease", textAlign: "center" }}
                                 >
@@ -1043,7 +1043,7 @@ export default function LetterLandingPage() {
                             color: "var(--text-primary)",
                         }}
                     >
-                        For you, Always.
+                       withyou
                     </span>
                 </a>
 
@@ -1054,13 +1054,13 @@ export default function LetterLandingPage() {
                         fontWeight: 500,
                     }}
                 >
-                    © 2026 For you, Always. — Preserving Memories Digitally
+                    © 2026 with you, digital gift
                 </p>
             </footer>
 
             {/* Floating WhatsApp Button */}
             <a
-                href="https://wa.me/6281936109076?text=Halo%20Digital%20Atelier!%20Saya%20ingin%20bertanya%20tentang%20Letter%20Edition."
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Hubungi via WhatsApp"

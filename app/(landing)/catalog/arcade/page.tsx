@@ -46,7 +46,7 @@ export default function ProductCatalogPage() {
                             mediaType="image"
                             accentColor="#5c8c5c"
                             accentGlow="rgba(92,140,92,0.2)"
-                            onAddToCart={() => addToCart({ id: "arcade", title: "Arcade Edition", numericPrice: 20000, themeColor: "#5c8c5c" })}
+                            onAddToCart={() => addToCart({ id: "arcade", title: "Arcade Edition", numericPrice: 25000, themeColor: "#5c8c5c" })}
                             themesLabel="Koleksi Ruangan"
                             themes={[
                                 { name: "Main Menu", desc: "Tampilan utama Arcade", },
@@ -64,7 +64,7 @@ export default function ProductCatalogPage() {
                             delay={350}
                             reverse={true}
                             initialSelectedIndex={0}
-                            tiktokHref="https://www.tiktok.com/@foryoualways.id/video/7617458730858319125?is_from_webapp=1&sender_device=pc"
+                     
                         />
                     </div>
                 </div>

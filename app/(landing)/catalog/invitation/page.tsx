@@ -51,7 +51,7 @@ export default function InvitationCatalogPage() {
                                 "Pilih Aktivitas & Dress Code",
                                 "Background Music Pilihan"
                             ]}
-                            price="Rp 15.000"
+                            price="Rp 20.000"
                             demoLink="https://invitation.for-you-always.my.id/WRcVb-mY0f"
                             mediaSrc="https://cdn.for-you-always.my.id/1782232677562-8sosah.webp"
                             fallbackImgSrc="https://cdn.for-you-always.my.id/1782232677562-8sosah.webp"

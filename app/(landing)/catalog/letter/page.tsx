@@ -53,7 +53,7 @@ export default function LetterCatalogPage() {
                                 "Foto / Video di Akhir Surat",
                                 "Background Music Pilihan"
                             ]}
-                            price="Rp 15.000"
+                            price="Rp 20.000"
                             demoLink="https://letter.for-you-always.my.id/ribbon/letter-test"
 
                             fallbackImgSrc="https://cdn.for-you-always.my.id/1783163306081-l92p1h.webp"
